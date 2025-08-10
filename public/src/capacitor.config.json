@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.sohaib98dz.myerp",
+  "appName": "ERP SYSTEM",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
