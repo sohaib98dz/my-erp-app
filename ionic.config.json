@@ -1,0 +1,7 @@
+{
+  "name": "ERP SYSTEM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
